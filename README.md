@@ -1,1 +1,1 @@
-# MachineLearning models implemented from scratch
+# MachineLearning models implemented from scratch using numpy
